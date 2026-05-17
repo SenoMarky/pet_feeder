@@ -1,5 +1,4 @@
 <?php
-// feed_action.php
 require 'config.php';
 require 'vendor/autoload.php';
 use PhpMqtt\Client\MqttClient;

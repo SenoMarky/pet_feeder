@@ -1,0 +1,24 @@
+# Dependency PHP
+/vendor/
+
+# Composer local files
+composer.phar
+
+# Environment / credential files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak

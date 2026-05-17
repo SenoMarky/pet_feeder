@@ -1,5 +1,4 @@
 <?php
-// mqtt_subscriber.php
 require __DIR__ . '/config.php';
 require __DIR__ . '/vendor/autoload.php';
 
